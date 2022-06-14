@@ -11,4 +11,14 @@ mysql> SOURCE C:/temp/sakila-db/sakila-schema.sql;
 
 mysql> SOURCE C:/temp/sakila-db/sakila-data.sql;
 
+mysql> show databases;
+
+mysql> use nameBase;
+
+
+mysql -u root -p sakila;
+
+
+
+
 
